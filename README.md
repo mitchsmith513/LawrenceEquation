@@ -25,7 +25,13 @@ This repository contains a **restricted software development kit (SDK)** for aca
 The core logic behind the Lawrence Equation and MirrorCore system is proprietary and **intentionally abstracted** to prevent unauthorized commercial replication or reverse engineering.
 
 **All commercial use, reproduction, or derivative work based on this repository requires express written permission from the author.**
+## LEGAL ENFORCEMENT
 
+This repository is protected under U.S. and international copyright, trade secret, and IP law.  
+Unauthorized usage may result in legal action.
+
+**For licensing or collaboration requests, contact:**  
+Saint513@icloud.com | ORCID: [0009-0006-2523-8914](https://orcid.org/0009-0006-2523-8914)
 - **Author**: M.L. Smith  
 - **Year**: 2024  
 - **License**: Modified MIT – Research/Evaluation Only  
