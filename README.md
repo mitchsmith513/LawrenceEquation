@@ -17,8 +17,23 @@ The **Lawrence Equation** introduces a deterministic extension of quantum mechan
 ---
 
 
-License
-MIT License
+---
+
+### NOTICE TO REVIEWERS AND COLLABORATORS
+
+This repository contains a **restricted software development kit (SDK)** for academic, research, and evaluation purposes only.  
+The core logic behind the Lawrence Equation and MirrorCore system is proprietary and **intentionally abstracted** to prevent unauthorized commercial replication or reverse engineering.
+
+**All commercial use, reproduction, or derivative work based on this repository requires express written permission from the author.**
+
+- **Author**: M.L. Smith  
+- **Year**: 2024  
+- **License**: Modified MIT – Research/Evaluation Only  
+- **Protected Technologies**: Lawrence Equation™, MirrorCore™, Quantum Entropy Tunneling™
+
+For inquiries, collaborations, or licensing discussions, contact: **Saint513@icloud.com**
+
+---
 
 Citation
 Please cite as:
