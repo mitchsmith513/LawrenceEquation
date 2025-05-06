@@ -1,0 +1,6 @@
+
+MIT License (Modified)
+Copyright (c) 2024 M.L. Smith
+
+This software is provided for personal, research, or evaluation use only. 
+Commercial or reverse-engineering use prohibited without written consent.
