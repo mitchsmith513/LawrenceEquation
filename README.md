@@ -2,7 +2,7 @@
 
 **A Deterministic Generalization of Quantum Evolution with Entropy-Producing Decoherence**
 
-**File:** `evolve_lawrence_psi.py`  
+
 **Author:** M.L. Smith (2024)
 
 ---
