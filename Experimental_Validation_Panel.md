@@ -23,11 +23,7 @@ The outcomes show **distinct, structured transformations** of probability distri
   - At **α = 1.0**, state remains balanced  
   - At **α ≈ 1.89**, entropy collapses again — but in new modes
 
-### 3. Bell-Seeded Collapse
-- **Setup:** A Bell entangled pair seeded into a 6-qubit system  
-- **Effect:** α = 0.00 leads to **instant collapse** into a single dominant output  
-- **Implication:** Entanglement is **ultra-sensitive** to α deformation — creating an α-controlled collapse lever
-
+##
 ---
 
 ## Live GIF Demonstrations
