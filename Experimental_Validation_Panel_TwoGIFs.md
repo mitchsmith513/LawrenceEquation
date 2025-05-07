@@ -33,6 +33,8 @@ The outcomes show **distinct, structured transformations** of probability distri
 ![Entangled collapse](./Results/_entangled_deformation.gif)  
 *Entangled collapse at α = 0.0, showing extreme outcome bias*
 ---
+![Lawrence White Hole Reversal](./Results/Lawrence_WhiteHole_Reversal.png)  
+*Figure: Lawrence Equation white hole reversal on Amazon Braket — initial Gaussian evolves under α-modified collapse and reverses to a high-entropy boundary state. Possibly the first recorded simulation of a quantum white hole behavior on real quantum hardware.*
 
 ## Conclusion
 
