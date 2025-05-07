@@ -25,14 +25,13 @@ The outcomes show **distinct, structured transformations** of probability distri
 
 ---
 
-## Live GIF Demonstrations
+#### Live GIF Demonstrations
 
-- ![Deformation Sweep](./results/_Deformation_Sweep.GIF)  
-  _Real-time α sweep deformation (2–6 qubits)_
+![Real-time α sweep deformation](./Results/_Deformation_Sweep.GIF)  
+*Real-time α sweep deformation (2–6 qubits)*
 
-- ![Entangled Collapse](./results/_entangled_deformation.gif)  
-  _Entangled collapse at α = 0.0, showing extreme outcome bias_
-
+![Entangled collapse](./Results/_entangled_deformation.gif)  
+*Entangled collapse at α = 0.0, showing extreme outcome bias*
 ---
 
 ## Conclusion
