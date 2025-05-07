@@ -36,10 +36,7 @@ The outcomes show **distinct, structured transformations** of probability distri
   _Real-time α sweep deformation (2–6 qubits)_
 
 - ![Entangled Collapse](https://github.com/mitchsmith513/LawrenceEquation/blob/main/Results/_entangled_deformation.gif)  
-  _Entangled collapse at α = 0.0, showing extreme outcome bias_
-
-- ![Alpha Sweep Effect](https://github.com/mitchsmith513/LawrenceEquation/blob/main/Results/lawrence_entangled_alpha_sweep.gif)  
-  _Full sweep across α ∈ [0.0, 2.0] with continuously reshaping bitstring probabilities_
+  _Entangled collapse at α = 0.0, showing extreme outcome 
 
 ---
 
