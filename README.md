@@ -29,6 +29,12 @@ The core logic behind the Lawrence Equation and MirrorCore system is proprietary
 
 This repository is protected under U.S. and international copyright, trade secret, and IP law.  
 Unauthorized usage may result in legal action.
+ 
+Copyright © 2025  
+MIT License
+Patent Status: U.S. Provisional Patent Filed – Application No. 63/XXXXXX, April 8, 2025. \\
+Patent-Pending protection applies under U.S. Law (35 U.S.C. 111(b)).
+
 
 **For licensing or collaboration requests, contact:**  
 Saint513@icloud.com | ORCID: [0009-0006-2523-8914](https://orcid.org/0009-0006-2523-8914)
